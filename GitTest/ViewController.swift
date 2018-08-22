@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var num1 = 1
+    var num1 = 2
     
 
     override func viewDidLoad() {
