@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var num1 = 1
-    var str1 = "Sanket"
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -23,7 +23,6 @@ class ViewController: UIViewController {
     
     func printConstants() {
         print(num1)
-        print(str1)
     }
 
     override func didReceiveMemoryWarning() {
