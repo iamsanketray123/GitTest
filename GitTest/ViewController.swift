@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var num1 = 0
+    
     
 
     override func viewDidLoad() {
@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     
     
     func printConstants() {
-        print(num1)
+        
     }
     
     func newFeature() {
