@@ -11,9 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     
-    
-
-    var success = false
+    var success = tt
     
     override func viewDidLoad() {
         super.viewDidLoad()
