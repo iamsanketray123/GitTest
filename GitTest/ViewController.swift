@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     
     
 
+    var success = true
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -23,7 +25,7 @@ class ViewController: UIViewController {
     
     
     func printConstants() {
-        
+        print(success, "🧀")
     }
     
     func newFeature() {
