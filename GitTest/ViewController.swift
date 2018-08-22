@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         
         printConstants()
         
+        
     }
     
     
@@ -26,7 +27,7 @@ class ViewController: UIViewController {
     }
     
     func newFeature() {
-        print("Hello world!")
+        print("Hello")
     }
     
     func feature3() {
