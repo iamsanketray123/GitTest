@@ -24,6 +24,14 @@ class ViewController: UIViewController {
     func printConstants() {
         print(num1)
     }
+    
+    func newFeature() {
+        print("Hello world!")
+    }
+    
+    func feature2() {
+        print("second feature")
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
