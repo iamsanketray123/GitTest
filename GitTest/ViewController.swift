@@ -29,6 +29,10 @@ class ViewController: UIViewController {
     func newFeature() {
         print("Hello world!")
     }
+    
+    func feature2() {
+        print("second feature")
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
